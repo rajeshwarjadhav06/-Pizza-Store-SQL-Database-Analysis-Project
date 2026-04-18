@@ -85,3 +85,7 @@ LIMIT 5;
 ✔ Ready for portfolio showcase  
 
 ---
+## 👨‍💻 Author
+
+**Rajeshwar Jadhav**
+(Data Analyst | Power BI | Python | SQL | Python | Advanced Excel | Exploratory Data Analysis | Advance Statistics )
