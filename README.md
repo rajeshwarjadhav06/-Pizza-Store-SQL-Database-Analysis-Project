@@ -87,5 +87,9 @@ LIMIT 5;
 ---
 ## 👨‍💻 Author
 
-**Rajeshwar Jadhav**
-(Data Analyst | Power BI | Python | SQL | Python | Advanced Excel | Exploratory Data Analysis | Advance Statistics )
+**Rajeshwar Jadhav**  
+  
+
+📧 Email: rajeshwarjadhav06@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rajeshwar-jadhav-54241625a/)  
+💻 [GitHub](https://github.com/rajeshwarjadhav06 )
